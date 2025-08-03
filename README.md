@@ -108,4 +108,6 @@ SELECT * FROM Course;
 
 ---
 
-Do you want me to create the **Terraform code to provision this RDS setup** as well?
+## 6 Delete RDS
+- select delete >> untick snapshot, backup
+- type delete me 
